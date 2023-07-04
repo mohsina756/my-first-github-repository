@@ -1,0 +1,33 @@
+.header{
+    height: 300px;
+    background-image: url('bunny.jpg');
+    background-size: cover;
+    /*background-image: url('..image folder niyom');*/
+}
+h3{
+    font-size: 30px;
+    text-decoration: overline;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.blog{
+    margin: 20px;
+    border: 10px solid red;
+    box-shadow: 10px 10px 10px blueviolet;
+}
+
+.secend{
+    /*display: none;*/
+    /*visibility: hidden;*/
+}
+.incident{
+    border: 1px solid blue;
+    /*height: 200px;*/
+    /*display:block;*/
+    margin: 20px;
+    /*padding: 20px;*/
+}
+
+li{
+    /*display: inline-block;*/
+}
